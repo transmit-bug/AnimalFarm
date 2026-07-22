@@ -12,6 +12,8 @@
 | [narrative-design.md](./narrative-design.md) | 叙事结构、故事线、NPC弧、事件分层 | ✅ 框架完成 |
 | [core-mechanics.md](./core-mechanics.md) | 回合制、卡牌、属性、关系、资源、审查、季节 | ✅ 框架完成 |
 | [drive-and-endings.md](./drive-and-endings.md) | 四层驱动系统、结局系统 | ✅ 框架完成 |
+| [art-direction.md](./art-direction.md) | 美术方向：视觉风格、色彩、角色、卡牌视觉 | ✅ 框架完成 |
+| [ui-ux.md](./ui-ux.md) | UI/UX 方向：信息呈现、卡牌交互、NPC交互 | ✅ 框架完成 |
 | [open-questions.md](./open-questions.md) | 未决事项、备选方向、未展开的想法 | 📝 持续更新 |
 
 ## 交叉引用说明
