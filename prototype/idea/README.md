@@ -14,6 +14,8 @@
 | [drive-and-endings.md](./drive-and-endings.md) | 四层驱动系统、结局系统 | ✅ 框架完成 |
 | [art-direction.md](./art-direction.md) | 美术方向：视觉风格、色彩、角色、卡牌视觉 | ✅ 框架完成 |
 | [ui-ux.md](./ui-ux.md) | UI/UX 方向：信息呈现、卡牌交互、NPC交互 | ✅ 框架完成 |
+| [audio-direction.md](./audio-direction.md) | 音频方向：音乐风格、音效设计原则 | ✅ 框架完成 |
+| [tech-stack.md](./tech-stack.md) | 技术选型：Godot 4 + GDScript + 数据驱动 | ✅ 框架完成 |
 | [open-questions.md](./open-questions.md) | 未决事项、备选方向、未展开的想法 | 📝 持续更新 |
 
 ## 交叉引用说明
